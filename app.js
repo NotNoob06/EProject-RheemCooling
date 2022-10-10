@@ -9,7 +9,6 @@ var myApp = angular.module("myApp", [
     'myApp.contact',
     'myApp.about',
     'myApp.compare',
-    'myApp.quickview',
     'menu'
 ]);
 
@@ -22,7 +21,6 @@ myApp.config(function($routeProvider, $locationProvider) {
     .when("/contact",{templateUrl:"contact/contact.html",controller:"contact"})
     .when("/about",{templateUrl:"about/about.html",controller:"about"})
     .when("/compare",{templateUrl:"compare/compare.html",controller:"compare"})
-    .when("/quickview/:id",{templateUrl:"index.html",controller:"quickview"})
 });
 
 angular.module("menu", [])
