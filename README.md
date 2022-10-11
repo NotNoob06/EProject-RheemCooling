@@ -6,9 +6,7 @@ CENTER NAME: ACE-HCMC-2-FPT
 
 Project : Rheem Cooling Website
 
-=========> Group 3 <=========
-
-Group Members :
+## GROUP MEMBERS
 
 <pre>
 Name	                        Student ID
@@ -17,18 +15,10 @@ Võ Phan Ninh (Team Leader)    Student1387906
 Nguyễn Nhật Minh              Student1390586
 </pre>
 
-<==============================>
+## LINKS
 
-Documentation :
-
-============================
-
-Published At : https://notnoob06.github.io/EProject-RheemCooling/#!/
-
-============================
-
-Video Published At :
-
-============================
+[Documentation]()
+[Published Site](https://notnoob06.github.io/EProject-RheemCooling/#!/)
+[Video]()
 
 Thank you for spending your time to look at our work.
