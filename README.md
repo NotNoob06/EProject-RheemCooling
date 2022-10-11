@@ -23,7 +23,7 @@ Documentation :
 
 ============================
 
-Published At : https://maskiatos.github.io/eproject-group7-T1.2106.E1/#!/
+Published At : https://notnoob06.github.io/EProject-RheemCooling/#!/
 
 ============================
 
