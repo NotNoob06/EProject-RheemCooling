@@ -17,8 +17,8 @@ Nguyễn Nhật Minh              Student1390586
 
 ## LINKS
 
-[Documentation]()
-[Published Site](https://notnoob06.github.io/EProject-RheemCooling/#!/)
-[Video]()
+[Documentation]() <br>
+[Published Site](https://notnoob06.github.io/EProject-RheemCooling/#!/) <br>
+[Video]() <br>
 
 Thank you for spending your time to look at our work.
