@@ -48,13 +48,13 @@
                         <ul>
                             <li><a href="index.html" ng-class="{menuactive:activePath=='/'}">Home</a></li>
                             <li ng-controller="typecontrol">
-                                <a href="#" ng-class="{menuactive:activePath=='/type/split ac' || activePath=='/type/window ac' || activePath=='/type/cassette ac'}">Category</a>
+                                <a href="" ng-class="{menuactive:activePath=='/type/split ac' || activePath=='/type/window ac' || activePath=='/type/cassette ac'}">Category</a>
                                 <ul class="sub-menu">
                                     <li ng-repeat="type in TypeList"><a href="#!type/{{type.name}}">{{type.name}}</a></li>
                                 </ul>
                             </li>
                             <li ng-controller="brandcontrol">
-                                <a href="#" ng-class="{menuactive:activePath=='/brand/samsung' || activePath=='/brand/daikin' || activePath=='/brand/panasonic'}">Brand</a>
+                                <a href="" ng-class="{menuactive:activePath=='/brand/samsung' || activePath=='/brand/daikin' || activePath=='/brand/panasonic'}">Brand</a>
                                 <ul class="sub-menu">
                                     <li ng-repeat="brand in BrandList"><a href="#!brand/{{brand.name}}">{{brand.name}}</a></li>
                                 </ul>
