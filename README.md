@@ -19,6 +19,7 @@ Nguyễn Nhật Minh              Student1390586
 
 [Documentation - Review](https://github.com/NotNoob06/EProject-RheemCooling/tree/master/Review) <br>
 [Published Site](https://notnoob06.github.io/EProject-RheemCooling/#!/) <br>
+[Source Code - Mediafire](https://www.mediafire.com/folder/q9kshp37g139r/EProject-RheemCooling)
 [Video](https://youtu.be/5yNSz34PFSE) <br>
 
 Thank you for spending your time to look at our work.
